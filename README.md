@@ -1,12 +1,12 @@
-Pitt Fluids
+# Pitt Fluids
 
-Nathaniel Roper
+#### Nathaniel Roper
 njr61@pitt.edu
 
-Remy Sedlak
+#### Remy Sedlak
 rjs243@pitt.edu
 
-Veer Patel
+#### Veer Patel
 vep32@pitt.edu 
 
 https://data.wprdc.org/dataset/city-water-features
@@ -18,3 +18,6 @@ https://data.wprdc.org/dataset/city-pools
 
 City of Pittsburgh Pools:
 City of Pittsburgh pools and spray parks.
+
+Allegheny County Air Quality 
+https://data.wprdc.org/dataset/allegheny-county-air-quality
